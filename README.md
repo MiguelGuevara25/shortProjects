@@ -11,7 +11,7 @@ This repository will be so that you can copy the code of some short projects tha
             <td>01</td>
             <td>
                 <a href="https://github.com/MiguelGuevara25/shortProjects/tree/master/navRotate">
-                    Navegate Rotative
+                    Rotative Navigation
                 </a>
             </td>
         </tr>
