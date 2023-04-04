@@ -14,18 +14,24 @@ This repository will be so that you can copy the code of some short projects tha
                     Colors Random RGB
                 </a>
             </td>
+        </tr>
+        <tr>
             <td>02</td>
             <td>
                 <a href="https://github.com/MiguelGuevara25/shortProjects/tree/master/coloresRGB">
                     Rotative Navigation
                 </a>
             </td>
+        </tr>
+        <tr>
             <td>03</td>
             <td>
                 <a href="https://github.com/MiguelGuevara25/shortProjects/tree/master/contadorJS">
                     Counter JS
                 </a>
             </td>
+        </tr>
+        <tr>
             <td>04</td>
             <td>
                 <a href="https://github.com/MiguelGuevara25/shortProjects/tree/master/navbarAnimate">
