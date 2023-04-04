@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.contador {
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.274);
+  border-radius: 8px;
+  display: block;
+  width: 300px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.botones__result {
+  border: 0;
+  background-color: steelblue;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+
+.botones__result:hover {
+  cursor: pointer;
+}
